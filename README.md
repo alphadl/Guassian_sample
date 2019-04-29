@@ -1,2 +1,2 @@
-# Guassian_sample
-test
+# gaussian_sample
+
